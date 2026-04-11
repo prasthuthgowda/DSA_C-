@@ -71,6 +71,6 @@ int main(){
     int n = 6, r = 3;
     cout << ncr(n,r);
     return 0;
-    
+
 
 }
