@@ -18,7 +18,7 @@ int main(){
     //     cout << val << " " <<endl;
     // }
     // cout<<"after vec.front() - " << vec.front() <<endl;
-    // cout<<"after vec.bsck() - " << vec.back() <<endl;
+    // cout<<"after vec.backk() - " << vec.back() <<endl;
     // cout << vec.at(0);
 
     vec.push_back(0);
@@ -26,6 +26,7 @@ int main(){
     vec.push_back(2);
     vec.push_back(3);
     vec.push_back(4);
+    vec.push_back(5);
 
     cout<<"Size = " << vec.size();
     cout <<" Capacity = " << vec.capacity();
